@@ -1,0 +1,282 @@
+{
+    "seentick": {
+        "type": "String",
+        "value": "1"
+    },
+    "wallpaper_alpha_navigation": {
+        "type": "Integer",
+        "value": 15
+    },
+    "imagequality": {
+        "type": "Boolean",
+        "value": true
+    },
+    "broadcast_tag": {
+        "type": "Boolean",
+        "value": true
+    },
+    "dotonline": {
+        "type": "Boolean",
+        "value": true
+    },
+    "bypass_version_check": {
+        "type": "Boolean",
+        "value": false
+    },
+    "hideread": {
+        "type": "Boolean",
+        "value": true
+    },
+    "filterseen": {
+        "type": "Boolean",
+        "value": true
+    },
+    "pinnedlimit": {
+        "type": "Boolean",
+        "value": true
+    },
+    "copystatus": {
+        "type": "Boolean",
+        "value": true
+    },
+    "doubletap2like_emoji": {
+        "type": "String",
+        "value": "😎"
+    },
+    "statuscomposer": {
+        "type": "Boolean",
+        "value": true
+    },
+    "open_wae": {
+        "type": "Boolean",
+        "value": true
+    },
+    "hidestatusview": {
+        "type": "Boolean",
+        "value": true
+    },
+    "ghostmode": {
+        "type": "Boolean",
+        "value": false
+    },
+    "custom_filters": {
+        "type": "Boolean",
+        "value": true
+    },
+    "removeforwardlimit": {
+        "type": "Boolean",
+        "value": true
+    },
+    "disable_defemojis": {
+        "type": "Boolean",
+        "value": false
+    },
+    "wallpaper_alpha_toolbar": {
+        "type": "Integer",
+        "value": 75
+    },
+    "admin_grp": {
+        "type": "Boolean",
+        "value": true
+    },
+    "hidereceipt": {
+        "type": "Boolean",
+        "value": false
+    },
+    "google_translate": {
+        "type": "Boolean",
+        "value": true
+    },
+    "changecolor": {
+        "type": "Boolean",
+        "value": true
+    },
+    "downloadviewonce": {
+        "type": "Boolean",
+        "value": true
+    },
+    "hideread_group": {
+        "type": "Boolean",
+        "value": true
+    },
+    "chatfilter": {
+        "type": "String",
+        "value": "1"
+    },
+    "bootloader_spoofer": {
+        "type": "Boolean",
+        "value": true
+    },
+    "channels": {
+        "type": "Boolean",
+        "value": false
+    },
+    "removeseemore": {
+        "type": "Boolean",
+        "value": false
+    },
+    "custom_privacy_type": {
+        "type": "String",
+        "value": "1"
+    },
+    "media_preview": {
+        "type": "Boolean",
+        "value": true
+    },
+    "video_real_resolution": {
+        "type": "Boolean",
+        "value": true
+    },
+    "change_dpi": {
+        "type": "String",
+        "value": "0"
+    },
+    "antirevokestatus": {
+        "type": "String",
+        "value": "1"
+    },
+    "menuwicon": {
+        "type": "Boolean",
+        "value": true
+    },
+    "animation_emojis": {
+        "type": "Boolean",
+        "value": true
+    },
+    "animation_list": {
+        "type": "String",
+        "value": "default"
+    },
+    "separategroups": {
+        "type": "Boolean",
+        "value": true
+    },
+    "video_maxfps": {
+        "type": "Boolean",
+        "value": true
+    },
+    "antidisappearing": {
+        "type": "Boolean",
+        "value": true
+    },
+    "call_info": {
+        "type": "Boolean",
+        "value": true
+    },
+    "typearchive": {
+        "type": "String",
+        "value": "0"
+    },
+    "removechannel_rec": {
+        "type": "Boolean",
+        "value": true
+    },
+    "enablelogs": {
+        "type": "Boolean",
+        "value": false
+    },
+    "hideonceseen": {
+        "type": "Boolean",
+        "value": true
+    },
+    "doubletap2like": {
+        "type": "Boolean",
+        "value": true
+    },
+    "audio_type": {
+        "type": "String",
+        "value": "0"
+    },
+    "restartbutton": {
+        "type": "Boolean",
+        "value": true
+    },
+    "filtergroups": {
+        "type": "Boolean",
+        "value": false
+    },
+    "hideaudioseen": {
+        "type": "Boolean",
+        "value": true
+    },
+    "hide_seen_view": {
+        "type": "Boolean",
+        "value": true
+    },
+    "showonlinetext": {
+        "type": "Boolean",
+        "value": true
+    },
+    "status_style": {
+        "type": "String",
+        "value": "4"
+    },
+    "buttonaction": {
+        "type": "Boolean",
+        "value": true
+    },
+    "update_check": {
+        "type": "Boolean",
+        "value": true
+    },
+    "antirevoke": {
+        "type": "String",
+        "value": "1"
+    },
+    "ghostmode_t": {
+        "type": "Boolean",
+        "value": true
+    },
+    "ghostmode_r": {
+        "type": "Boolean",
+        "value": true
+    },
+    "novaconfig": {
+        "type": "Boolean",
+        "value": true
+    },
+    "antieditmessages": {
+        "type": "Boolean",
+        "value": true
+    },
+    "blueonreply": {
+        "type": "Boolean",
+        "value": false
+    },
+    "viewonce": {
+        "type": "Boolean",
+        "value": true
+    },
+    "videoquality": {
+        "type": "Boolean",
+        "value": true
+    },
+    "revokeallmessages": {
+        "type": "Boolean",
+        "value": true
+    },
+    "wallpaper_alpha": {
+        "type": "Integer",
+        "value": 60
+    },
+    "downloadstatus": {
+        "type": "Boolean",
+        "value": true
+    },
+    "newchat": {
+        "type": "Boolean",
+        "value": true
+    },
+    "video_limit_size": {
+        "type": "Float",
+        "value": 120
+    },
+    "hidetag": {
+        "type": "Boolean",
+        "value": true
+    },
+    "show_freezeLastSeen": {
+        "type": "Boolean",
+        "value": false
+    }
+}
